@@ -8,9 +8,10 @@
 **License:** MIT  
 
 ## Структура шаблону
-| header |
-| nav |
+```
+|header|
+| nav  |
 | main | aside |
-| footer |
-
+|footer|
+```
 Цей шаблон є адаптивним та оптимізованим для Blogger.
